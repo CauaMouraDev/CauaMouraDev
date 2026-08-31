@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CauaMouraDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Cauã´s github stats](https://github-readme-stats.vercel.app/api?username=CauaMouraDev)](https://github.com/CauaMouraDev/CauaMouraDev)
 
 ## 🔥 GitHub Streak
 
