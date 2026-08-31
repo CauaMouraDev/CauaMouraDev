@@ -38,8 +38,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CauaMouraDev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> </p>
----
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 GitHub Streak
 
