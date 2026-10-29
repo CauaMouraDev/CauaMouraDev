@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="img/images-removebg-preview.png" width="155" height="120" alt="IFSP Logo" style="margin-right: 20px; vertical-align: middle;" />
+  <img src="img/images-removebg-preview.png" width="155" height="130" alt="IFSP Logo" style="margin-right: 20px; vertical-align: middle;" />
   <img src="img/Fiap-logo-novo-removebg-preview (1).png" width="150" height="80" alt="FIAP Logo" style="vertical-align: middle;" />
 </p>
 
